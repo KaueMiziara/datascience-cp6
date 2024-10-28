@@ -6,7 +6,7 @@
 - Kauê Miziara - 550451
 
 ### Questões resolvidas
-- [] Aula 10 (R parte 3) -> 7 exs
+- [X] Aula 10 (R parte 3) -> 7 exs
 - [] Aula 11 (R parte 4) -> 2 exs
 - [] Aula 12 (R parte 5) -> 2 exs
 - [] Aula 13 (R parte 6) -> 4 exs
