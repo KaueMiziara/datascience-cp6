@@ -1,7 +1,7 @@
-# Integrantes
-## Beatriz Cabello - 551214
-## Julia Santos - 97986
-## Kauê Miziara - 550451
+cat("Integrantes:\n")
+cat("Beatriz Cabello - 551214\n")
+cat("Julia Santos - 97986\n")
+cat("Kauê Miziara - 550451\n\n")
 
 # Aula 10
 
