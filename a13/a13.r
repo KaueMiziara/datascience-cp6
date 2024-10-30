@@ -62,7 +62,7 @@ a13 <- function(data) {
 # 1
 
 cat("1. Massa de dados de 2000 amostras com incremento de 10:\n")
-data1 <- sample(seq(0, 10, length.out = 2000), 2000, replace = TRUE)
+data1 <- seq(0, by = 10, length.out = 2000) + runif(2000, min = 0, max = 10)
 cat(head(data1), "\n")
 a13(data1)
 
