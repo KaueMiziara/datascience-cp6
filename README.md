@@ -11,5 +11,5 @@
 - [X] Aula 12 (R parte 5) -> 2 exs
 - [X] Aula 13 (R parte 6) -> 4 exs
 - [X] Aula 14 (simulado) -> 1 ex
-- [] Aula 15 (regressão parte 1) -> 12 exs
+- [X] Aula 15 (regressão parte 1) -> 12 exs
 - [] Aula 16 (regressão parte 2) -> 5 exs
